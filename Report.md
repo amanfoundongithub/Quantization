@@ -1,10 +1,4 @@
-# ANLP Assignment 4 Report
-
-
-**Name:** Aman Raj
-
-**Roll No:** 2021101064
-
+Report
 ---
 
 ## Results of Quantization
